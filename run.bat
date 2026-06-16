@@ -42,6 +42,6 @@ echo =========================================================================
 echo.
 
 :: 2. Streamlit 대시보드 런처 즉각 구동
-streamlit run app.py
+python -m streamlit run app.py
 
 pause
