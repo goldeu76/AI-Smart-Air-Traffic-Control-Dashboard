@@ -106,6 +106,6 @@ OpenSky Network API를 통해 대한민국 영공 내 항공기 정보를 수집
 프로젝트 실행 화면은 아래 이미지에서 확인할 수 있습니다.
 
 ```text
-screenshots/dashboard.png
+screenshots/스크린샷 2026-06-16 211041.png
 ```
 
